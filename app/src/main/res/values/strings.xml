@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Todo2.0</string>
+    <string name="web_client_id">12223727620-hjv1vlcb7nte8kgid5i9jgos4sae0065.apps.googleusercontent.com</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <array name="priorities">
+        <item>Select Priority</item>
+
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </array>
+</resources>
